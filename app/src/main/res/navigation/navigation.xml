@@ -3,11 +3,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/navigation"
-    app:startDestination="@id/food">
-
+    app:startDestination="@id/recycler">
     <fragment
-        android:id="@+id/food"
-        android:name="com.example.assignment.Food"
-        android:label="fragment_food"
-        tools:layout="@layout/fragment_food" />
+        android:id="@+id/recycler"
+        android:name="com.example.assignment.Recycler"
+        android:label="Recycler" />
 </navigation>

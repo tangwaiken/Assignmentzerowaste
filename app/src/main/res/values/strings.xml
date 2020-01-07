@@ -9,4 +9,9 @@
     <string name="btmNav_food">Food</string>
     <string name="btmNav_forum">Forum</string>
     <string name="btmNav_team">Team</string>
+    <string name="owner_name">Owner: </string>
+    <string name="item_name">Item: </string>
+    <string name="description">Description: </string>
+    <string name="pickup_time">Pickup time: </string>
+    <string name="location">Location: </string>
 </resources>
